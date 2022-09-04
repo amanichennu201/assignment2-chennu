@@ -20,3 +20,14 @@ They will drop you at the museum. It is just a 20 minutes travel time for us to 
 *   Shopping mall
 
 ***[AboutMe.md](./AboutMe.md)***
+
+***
+
+# Reccomendation of cities
+This table is about the cities and the locations to visit in the cities.The travelling time also mentioned in the table to give an idea about it.
+
+|  City    | Location   | Time Spending |
+|   ---    |  ---       |  ---    |
+|Vizag     | Araku      | 24 Hrs  |
+|Thirupathi|Temple      |  48 Hrs |
+|Vijayawada|River Krishna|  24 Hrs|
