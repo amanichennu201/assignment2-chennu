@@ -40,3 +40,36 @@ This table is about the cities and the locations to visit in the cities.The trav
 >
 >"Nothing is permanent, Everything will change."
 >>*Bushra Ashraf.*
+
+***
+
+# Code Fencing
+> What is SaaS, PaaS and IaaS? With examples
+><https://stackoverflow.com/questions/16820336/what-is-saas-paas-and-iaas-with-examples>
+
+
+```
+@mixin stripes($direction, $colors) {
+  $length: length($colors);
+  
+  @if $length > 1 {
+    $stripes: ();
+    
+    @for $i from 1 through $length {
+      $stripe: (100% / $length) * ($i - 1);
+      
+      @if $i > 1 {
+        $stripes: append($stripes, nth($colors, $i - 1) $stripe, comma);
+      }
+      
+      $stripes: append($stripes, nth($colors, $i) $stripe, comma);
+    }
+    
+    background-image: linear-gradient($direction, $stripes);
+  } @else if $length == 1 {
+    background-color: $colors;
+  }
+  
+  ```
+  > snippet source link
+  ><https://css-tricks.com/snippets/sass/striped-gradient-mixin/>
