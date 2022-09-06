@@ -31,3 +31,12 @@ This table is about the cities and the locations to visit in the cities.The trav
 |Vizag     | Araku      | 24 Hrs  |
 |Thirupathi|Temple      |  48 Hrs |
 |Vijayawada|River Krishna|  24 Hrs|
+
+***
+
+# Quotes 
+> A Perfect sister i am not, but thankful for the one I've got..
+>
+>Nothing is permanent.
+>
+>>*Bushra Ashraf.*
