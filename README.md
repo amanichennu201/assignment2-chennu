@@ -31,6 +31,7 @@ This table is about the cities and the locations to visit in the cities.The trav
 |Vizag     | Araku      | 24 Hrs  |
 |Thirupathi|Temple      |  48 Hrs |
 |Vijayawada|River Krishna|  24 Hrs|
+|Eluru     |Valley       |  30 Hrs|
 
 ***
 
