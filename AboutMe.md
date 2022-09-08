@@ -3,4 +3,3 @@ I am Amani Chennu. I am pursuing my Masters.  My hobbies are listening to music 
 
 ![myimage](my%20pic.jpg) 
 
-***[README.md](./README.md)***
