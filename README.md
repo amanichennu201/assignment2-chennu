@@ -37,10 +37,12 @@ This table is about the cities and the locations to visit in the cities.The trav
 
 # Quotes 
 > "A Perfect sister i am not, but thankful for the one I've got.."
->>*John D*
->
->"Nothing is permanent, Everything will change."
->>*Bushra Ashraf.*
+
+*John D*
+
+>"Nothing is permanent, Everything will change"
+
+*Bushra Ashraf.*
 
 ***
 
